@@ -1,0 +1,2 @@
+# yolov11_fish_disease_detection
+基于yolov11的鱼病检测和长度测量平台
